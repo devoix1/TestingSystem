@@ -1,0 +1,400 @@
+#category english
+#test 1
+#question 1
+Jim ... very short.
+#answer 1
+are
+#answer 2 right
+is
+#answer 3
+has
+#question 2
+My uncle ... like football very much.
+#answer 1 right
+doesn't
+#answer 2
+don't
+#answer 3
+hasn't
+#question 3
+How ... does that CD cost?
+#answer 1
+is
+#answer 2
+many
+#answer 3 right
+much
+#question 4
+There ... two big supermarkets behind my house.
+#answer 1
+is
+#answer 2 right
+are
+#answer 3
+have
+#question 5
+I ... agree with you.
+#answer 1
+am not
+#answer 2
+does not
+#answer 3 right
+do not
+#question 6
+Carl cannot ... chess. He's broken his right arm. 
+#answer 1
+to play
+#answer 2
+playing
+#answer 3 right
+play
+#question 7
+... some juice?
+#answer 1 right
+Would you like
+#answer 2
+You'd like
+#answer 3
+Do you like
+#test 2
+#question 1
+Last night we .... to disco.
+#answer 1 
+go
+#answer 2 
+goes
+#answer 3 right
+went
+#question 2
+I .... the play we saw at Drama Theatre on Wednesday.
+#answer 1
+doesn't like
+#answer 2 right
+didn't like
+#answer 3
+haven't liked
+#question 3
+Susie .... in England for her holiday last winter.
+#answer 1
+were 
+#answer 2 right
+was 
+#answer 3
+is
+#question 4
+My brother .... never been to a football match.
+#answer 1 right
+has 
+#answer 2
+haven't 
+#answer 3
+hadn't
+#question 5
+Janna .... her new i-phone.
+#answer 1 right
+has lost
+#answer 2
+is losing
+#answer 3
+loses
+#question 6
+If I were rich, I .... rent a huge house in Monaco.
+#answer 1 right
+would 
+#answer 2
+shall 
+#answer 3
+will
+#question 7
+.... ever eaten real sushi?
+#answer 1
+Did you 
+#answer 2 right
+Have you 
+#answer 3
+Do you 
+#question 8
+I wish I .... play a musical instrument. 
+#answer 1 right
+could 
+#answer 2
+can 
+#answer 3
+should 
+#question 9
+They .... fail their exam if they studied hard. 
+#answer 1
+won't 
+#answer 2
+didn't 
+#answer 3 right
+wouldn't
+#test 3
+#question 1
+Choose the best answer.
+He was so tired that he ... asleep in the chair.
+#answer 1 right
+fell
+#answer 2
+felt
+#answer 3
+went
+#answer 4
+became
+#answer 5
+lost
+#question 2
+Our company is a small organization with only a few ... .
+#answer 1
+employments
+#answer 2
+employers
+#answer 3 right
+employees
+#answer 4
+employs
+#answer 5
+employerers
+#question 3
+Before we start the lesson, I`d like to ... what we did yesterday.
+#answer 1
+run along
+#answer 2 right
+run through
+#answer 3
+run up
+#answer 4
+run into
+#answer 5
+run across
+#question 4
+I`ll be with you in ... .
+#answer 1
+a quarter of one hour
+#answer 2
+one quarter of an hour
+#answer 3 right
+a quarter of an hour
+#answer 4
+a quater of hour
+#answer 5
+a quarter and a half
+#question 5
+... experience of working in an office environment is essential for 
+this job.
+#answer 1
+Earlier
+#answer 2
+Initial
+#answer 3
+First
+#answer 4 right
+Previous
+#answer 5
+Last
+#category mathematics
+#test 1
+#question 1
+-3ab + 4ac - 2ad = -(3ab - 4ac + 2ad)
+#answer 1 right
+True
+#answer 2	
+False	
+#question 2
+A father gave $500 to his two sons. He gave X dollars to one son. 
+Which of the following expressions correctly shows the amount he 
+gave to the other son.	
+#answer 1
+$500 + X	
+#answer 2
+$500 ÷ X	
+#answer 3
+$500 x X	
+#answer 4 right
+$500 - X	
+#question 3
+Solve X where 5X = 20.	
+#answer 1 right
+4	
+#answer 2
+5	
+#answer 3
+10	
+#answer 4
+15	
+#question 4	
+Solve X where X - 5 = 15.	
+#answer 1
+10	
+#answer 2
+15	
+#answer 3 right
+20	
+#answer 4
+25	
+#question 5.	
+Solve X where 3X + 7 - 2 = 8.	
+#answer 1 right
+1	
+#answer 2
+2	
+#answer 3
+3	
+#answer 4
+4	
+#question 6.
+Irene is N years old. If Tom is twice as old, which of the following 
+algebraic statements shows his age now?	
+#answer 1 right
+2N	
+#answer 2
+2N + X	
+#answer 3
+2 - N	
+#answer 4
+N - 2	
+#question 7.	
+John has B bats and buys C bats more. He then gives away D bats. 
+Which of the following algebraic statements corretly shows how 
+many bats John has left?	
+#answer 1
+D - BC	
+#answer 2
+B - C - D	
+#answer 3 right
+B + C - D	
+#answer 4
+B + D + C	
+#question 8.	
+What is the representation algebraically of the cost of L feet 
+of lumber at Y dollars per foot?	
+#answer 1
+L + Y	
+#answer 2 right
+LY	
+#answer 3
+L / Y	
+#answer 4
+L - Y	
+#question 9.	
+3x + 6x =	
+#answer 1
+3x	
+#answer 2
+9 + 2 x	
+#answer 3 right
+9x	
+#answer 4
+9x + 2	
+#question 10.	
+5a + 2b - b + 4a =	
+#answer 1 right
+9a + b	
+#answer 2
+a + b	
+#answer 3
+7a - 3b	
+#answer 4
+6a
+#test 2	
+#question 1
+Find the value of 3abc, where a = 2, b = 3 and c = 4.	
+#answer 1
+12	
+#answer 2
+27	
+#answer 3 right
+72	
+#answer 4
+82	
+#question 2
+The sum of a certain number and 3 times the number is 40. What is 
+the number?	
+#answer 1
+8	
+#answer 2
+9	
+#answer 3 right
+10	
+#answer 4
+11	
+#question 3
+Joe is lending Frank $500 and Frank has 4 years to pay it back. 
+Joe is charging 6% interest. Frank wants to determine how much 
+interest he'll pay over the 4 years.  He sets up the formula, 
+interest (i) = loan amount (l) x rate (r) x time (t).  Find i.	
+#answer 1
+$12	
+#answer 2 right
+$120	
+#answer 3
+$125	
+#answer 4
+$1,200	
+#question 4
+In V = 2m - 3, V is which of the following?	
+#answer 1
+Constant	
+#answer 2 right
+Dependent Variable	
+#answer 3
+Independent Variable	
+#answer 4
+Exponent	
+#question 5
+In B = 3 + 4w, 3 is which of the following?	
+#answer 1 right
+Constant	
+#answer 2
+Dependent Variable	
+#answer 3
+Independent Variable	
+#answer 4
+Coefficient	
+#question 6
+The absolute value of -14 is 14.	
+#answer 1 right
+True	
+#answer 2
+False	
+#question 7
+- 3 + (-14) =	
+#answer 1
+11	
+#answer 2
+-11	
+#answer 3 right
+-17	
+#answer 4
+-42	
+#question 8
+20 - (-6) =	
+#answer 1
+14	
+#answer 2
+-14	
+#answer 3 right
+26	
+#answer 4
+120	
+#question 9
+Which of the following is not a grouping symbol?	
+#answer 1
+parentheses	
+#answer 2
+braces	
+#answer 3
+brackets	
+#answer 4 right
+arrows		
+#question 10
+6x - 10 = 4(x + 3). Solve for x.	
+#answer 1
+x = 9	
+#answer 2 
+x = 10	
+#answer 3 right
+x = 11	
+#answer 4
+x = 12	
+
